@@ -90,7 +90,7 @@ for qubit states (with a bit of a twist).
 The inner product between two qubit states is computed by taking the dot
 product between the bra of one, and the ket of the other (they
 combine to form a "bra-ket" expression). We can do so to check that 
-$\langle 0 \rangle$ and $\vert 1 \rangle$ are orthogonal:
+$\langle 0 \vert $ and $\vert 1 \rangle$ are orthogonal:
 
 $$
 \begin{align*}
