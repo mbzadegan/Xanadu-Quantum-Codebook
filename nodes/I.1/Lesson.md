@@ -1,13 +1,13 @@
-"---"
+"---
 
-"**Learning outcomes**
+**Learning outcomes**
 
 - *Write down a mathematical description of a qubit state in two different notations.*
 - *Define and give examples of what it means for a quantum system to be in a superposition of states.* 
 - *State the relationship between amplitudes and measurement outcome probabilities, and what it means for a state to be normalized.*
 - *Explain how operations are mathematically applied to qubit states.*
  
----"
+---
 
 Quantum computers are an emerging technology with amazing potential to solve
 problems that are intractable even on today's biggest supercomputers. Regular
